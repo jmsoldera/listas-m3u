@@ -1,86 +1,55 @@
 #EXTM3U
-#PLAYLIST:CATVE — Canais e Câmeras ao Vivo (fonte oficial catve.com)
-# Gerada em 15/11/2026 17:14 · 27 streams verificados
-
-# === CANAIS CATVE (4) ===
-#EXTINF:-1 group-title="CATVE — Canais",CATVE 20.1 — Cascavel / Toledo (ao vivo)
+#EXTINF:-1 tvg-id="CATVE.20.1.Cascavel.Toledo.ao.vivo" tvg-name="CATVE 20.1 - Cascavel / Toledo (ao vivo)" tvg-logo="" group-title="CATVE — Canais",CATVE 20.1 - Cascavel / Toledo (ao vivo)
 https://5b33b873179a2.streamlock.net:1443/live/livestream/playlist.m3u8
-
-#EXTINF:-1 group-title="CATVE — Canais",CATVE 2 — 28.1 Londrina / 46.1 Foz do Iguaçu
+#EXTINF:-1 tvg-id="CATVE.2.28.1.Londrina.46.1.Foz.do.Iguacu" tvg-name="CATVE 2 - 28.1 Londrina / 46.1 Foz do Iguaçu" tvg-logo="" group-title="CATVE — Canais",CATVE 2 - 28.1 Londrina / 46.1 Foz do Iguaçu
 https://5b33b873179a2.streamlock.net:1443/catve2/catve2/playlist.m3u8
-
-#EXTINF:-1 group-title="CATVE — Canais",CATVE FM 99.7 — Rádio (estúdio ao vivo)
+#EXTINF:-1 tvg-id="CATVE.FM.99.7.Radio.estudio.ao.vivo" tvg-name="CATVE FM 99.7 - Rádio (estúdio ao vivo)" tvg-logo="" group-title="CATVE — Canais",CATVE FM 99.7 - Rádio (estúdio ao vivo)
 https://5b33b873179a2.streamlock.net:1443/radiocamera/livestream/playlist.m3u8
-
-#EXTINF:-1 group-title="CATVE — Canais",CATVE Master TV
+#EXTINF:-1 tvg-id="CATVE.Master.TV" tvg-name="CATVE Master TV" tvg-logo="" group-title="CATVE — Canais",CATVE Master TV
 https://5b33b873179a2.streamlock.net:1443/mastertv/livestream/playlist.m3u8
-
-# === CÂMERAS AO VIVO (23) ===
-#EXTINF:-1 group-title="CATVE — Câmeras · Foz do Iguaçu",Foz do Iguaçu — Aduana
+#EXTINF:-1 tvg-id="Foz.do.Iguacu.Aduana" tvg-name="Foz do Iguaçu - Aduana" tvg-logo="" group-title="CATVE — Câmeras · Foz do Iguaçu",Foz do Iguaçu - Aduana
 https://5b33b873179a2.streamlock.net:1443/camerafozaduana/camerafozaduana.stream/playlist.m3u8
-
-#EXTINF:-1 group-title="CATVE — Câmeras · Foz do Iguaçu",Foz do Iguaçu — Centro
+#EXTINF:-1 tvg-id="Foz.do.Iguacu.Centro" tvg-name="Foz do Iguaçu - Centro" tvg-logo="" group-title="CATVE — Câmeras · Foz do Iguaçu",Foz do Iguaçu - Centro
 https://5b33b873179a2.streamlock.net:1443/camerafozcentro/camerafozcentro.stream/playlist.m3u8
-
-#EXTINF:-1 group-title="CATVE — Câmeras · Foz do Iguaçu",Foz do Iguaçu — Centro 2
+#EXTINF:-1 tvg-id="Foz.do.Iguacu.Centro.2" tvg-name="Foz do Iguaçu - Centro 2" tvg-logo="" group-title="CATVE — Câmeras · Foz do Iguaçu",Foz do Iguaçu - Centro 2
 https://5b33b873179a2.streamlock.net:1443/regiaocentralfoz/regiaocentralfoz.stream/playlist.m3u8
-
-#EXTINF:-1 group-title="CATVE — Câmeras · Foz do Iguaçu",Foz do Iguaçu — Ponte Tancredo Neves
+#EXTINF:-1 tvg-id="Foz.do.Iguacu.Ponte.Tancredo.Neves" tvg-name="Foz do Iguaçu - Ponte Tancredo Neves" tvg-logo="" group-title="CATVE — Câmeras · Foz do Iguaçu",Foz do Iguaçu - Ponte Tancredo Neves
 https://5b33b873179a2.streamlock.net:1443/pontetancredo/pontetancredo.stream/playlist.m3u8
-
-#EXTINF:-1 group-title="CATVE — Câmeras · Foz do Iguaçu",Foz do Iguaçu — Ponte da Amizade
+#EXTINF:-1 tvg-id="Foz.do.Iguacu.Ponte.da.Amizade" tvg-name="Foz do Iguaçu - Ponte da Amizade" tvg-logo="" group-title="CATVE — Câmeras · Foz do Iguaçu",Foz do Iguaçu - Ponte da Amizade
 https://5b33b873179a2.streamlock.net:1443/camerapontefoz/camerapontefoz.stream/playlist.m3u8
-
-#EXTINF:-1 group-title="CATVE — Câmeras · Toledo",Toledo — Centro
+#EXTINF:-1 tvg-id="Toledo.Centro" tvg-name="Toledo - Centro" tvg-logo="" group-title="CATVE — Câmeras · Toledo",Toledo - Centro
 https://5b33b873179a2.streamlock.net:1443/camerauniao/camerauniao.stream/playlist.m3u8
-
-#EXTINF:-1 group-title="CATVE — Câmeras · Toledo",Toledo — Lago
+#EXTINF:-1 tvg-id="Toledo.Lago" tvg-name="Toledo - Lago" tvg-logo="" group-title="CATVE — Câmeras · Toledo",Toledo - Lago
 https://5b33b873179a2.streamlock.net:1443/cameratoledo/catvetoledo.stream/playlist.m3u8
-
-#EXTINF:-1 group-title="CATVE — Câmeras · Londrina",Londrina — Centro
+#EXTINF:-1 tvg-id="Londrina.Centro" tvg-name="Londrina - Centro" tvg-logo="" group-title="CATVE — Câmeras · Londrina",Londrina - Centro
 https://5b33b873179a2.streamlock.net:1443/cameralondrina/cameralondrina.stream/playlist.m3u8
-
-#EXTINF:-1 group-title="CATVE — Câmeras · Londrina",Londrina — Centro 2
+#EXTINF:-1 tvg-id="Londrina.Centro.2" tvg-name="Londrina - Centro 2" tvg-logo="" group-title="CATVE — Câmeras · Londrina",Londrina - Centro 2
 https://5b33b873179a2.streamlock.net:1443/cameralondrina2/cameralondrina2.stream/playlist.m3u8
-
-#EXTINF:-1 group-title="CATVE — Câmeras · Cascavel",Cascavel — Aeroporto
+#EXTINF:-1 tvg-id="Cascavel.Aeroporto" tvg-name="Cascavel - Aeroporto" tvg-logo="" group-title="CATVE — Câmeras · Cascavel",Cascavel - Aeroporto
 https://5b33b873179a2.streamlock.net:1443/aeroportocascavel/aeroportocascavel.stream/playlist.m3u8
-
-#EXTINF:-1 group-title="CATVE — Câmeras · Cascavel",Cascavel — Autódromo
+#EXTINF:-1 tvg-id="Cascavel.Autodromo" tvg-name="Cascavel - Autódromo" tvg-logo="" group-title="CATVE — Câmeras · Cascavel",Cascavel - Autódromo
 https://5b33b873179a2.streamlock.net:1443/cameraecocataratas/cameraecocataratas.stream/playlist.m3u8
-
-#EXTINF:-1 group-title="CATVE — Câmeras · Cascavel",Cascavel — Av. Brasil
+#EXTINF:-1 tvg-id="Cascavel.Av.Brasil" tvg-name="Cascavel - Av. Brasil" tvg-logo="" group-title="CATVE — Câmeras · Cascavel",Cascavel - Av. Brasil
 https://5b33b873179a2.streamlock.net:1443/cameraavbrasil/avbrasil.stream/playlist.m3u8
-
-#EXTINF:-1 group-title="CATVE — Câmeras · Cascavel",Cascavel — Av. das Torres
+#EXTINF:-1 tvg-id="Cascavel.Av.das.Torres" tvg-name="Cascavel - Av. das Torres" tvg-logo="" group-title="CATVE — Câmeras · Cascavel",Cascavel - Av. das Torres
 https://5b33b873179a2.streamlock.net:1443/camerafag2/camerafag2.stream/playlist.m3u8
-
-#EXTINF:-1 group-title="CATVE — Câmeras · Cascavel",Cascavel — BR 277
+#EXTINF:-1 tvg-id="Cascavel.BR.277" tvg-name="Cascavel - BR 277" tvg-logo="" group-title="CATVE — Câmeras · Cascavel",Cascavel - BR 277
 https://5b33b873179a2.streamlock.net:1443/camerabr277/camerabr277.stream/playlist.m3u8
-
-#EXTINF:-1 group-title="CATVE — Câmeras · Cascavel",Cascavel — Centro (Discolândia)
+#EXTINF:-1 tvg-id="Cascavel.Centro.Discolandia" tvg-name="Cascavel - Centro (Discolândia)" tvg-logo="" group-title="CATVE — Câmeras · Cascavel",Cascavel - Centro (Discolândia)
 https://5b33b873179a2.streamlock.net:1443/cameradiscolandia/cameradiscolandia.stream/playlist.m3u8
-
-#EXTINF:-1 group-title="CATVE — Câmeras · Cascavel",Cascavel — Centro FAG
+#EXTINF:-1 tvg-id="Cascavel.Centro.FAG" tvg-name="Cascavel - Centro FAG" tvg-logo="" group-title="CATVE — Câmeras · Cascavel",Cascavel - Centro FAG
 https://5b33b873179a2.streamlock.net:1443/camerafag/camerafag.stream/playlist.m3u8
-
-#EXTINF:-1 group-title="CATVE — Câmeras · Cascavel",Cascavel — Ciro Nardi
+#EXTINF:-1 tvg-id="Cascavel.Ciro.Nardi" tvg-name="Cascavel - Ciro Nardi" tvg-logo="" group-title="CATVE — Câmeras · Cascavel",Cascavel - Ciro Nardi
 https://5b33b873179a2.streamlock.net:1443/cameratorregtv/cameratorregtv.stream/playlist.m3u8
-
-#EXTINF:-1 group-title="CATVE — Câmeras · Cascavel",Cascavel — Praça da Bíblia
+#EXTINF:-1 tvg-id="Cascavel.Praca.da.Biblia" tvg-name="Cascavel - Praça da Bíblia" tvg-logo="" group-title="CATVE — Câmeras · Cascavel",Cascavel - Praça da Bíblia
 https://5b33b873179a2.streamlock.net:1443/cameraavbrasil2/cameraavbrasil2.stream/playlist.m3u8
-
-#EXTINF:-1 group-title="CATVE — Câmeras · Cascavel",Cascavel — Praça do Migrante
+#EXTINF:-1 tvg-id="Cascavel.Praca.do.Migrante" tvg-name="Cascavel - Praça do Migrante" tvg-logo="" group-title="CATVE — Câmeras · Cascavel",Cascavel - Praça do Migrante
 https://5b33b873179a2.streamlock.net:1443/cameraavbrasil1/cameraavbrasil1.stream/playlist.m3u8
-
-#EXTINF:-1 group-title="CATVE — Câmeras · Cascavel",Cascavel — Trevo Cataratas
+#EXTINF:-1 tvg-id="Cascavel.Trevo.Cataratas" tvg-name="Cascavel - Trevo Cataratas" tvg-logo="" group-title="CATVE — Câmeras · Cascavel",Cascavel - Trevo Cataratas
 https://5b33b873179a2.streamlock.net:1443/cameratrevo/cameratrevocat.stream/playlist.m3u8
-
-#EXTINF:-1 group-title="CATVE — Câmeras · Cascavel",Cascavel — Trevo Guarujá
+#EXTINF:-1 tvg-id="Cascavel.Trevo.Guaruja" tvg-name="Cascavel - Trevo Guarujá" tvg-logo="" group-title="CATVE — Câmeras · Cascavel",Cascavel - Trevo Guarujá
 https://5b33b873179a2.streamlock.net:1443/cameratrevoguaruja/cameratrevoguaruja.stream/playlist.m3u8
-
-#EXTINF:-1 group-title="CATVE — Câmeras · Cascavel",Cascavel — Unioeste
+#EXTINF:-1 tvg-id="Cascavel.Unioeste" tvg-name="Cascavel - Unioeste" tvg-logo="" group-title="CATVE — Câmeras · Cascavel",Cascavel - Unioeste
 https://5b33b873179a2.streamlock.net:1443/cameraunioeste/cameraunioeste.stream/playlist.m3u8
-
-#EXTINF:-1 group-title="CATVE — Câmeras · Guaíra",Guaíra — Ponte Ayrton Senna
+#EXTINF:-1 tvg-id="Guaira.Ponte.Ayrton.Senna" tvg-name="Guaíra - Ponte Ayrton Senna" tvg-logo="" group-title="CATVE — Câmeras · Guaíra",Guaíra - Ponte Ayrton Senna
 https://5b33b873179a2.streamlock.net:1443/cameraguaira/cameraguaira.stream/playlist.m3u8
