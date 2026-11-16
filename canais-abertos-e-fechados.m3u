@@ -1,0 +1,419 @@
+#EXTM3U
+#PLAYLIST:Canais Abertos e Fechados — 137 streams verificados
+# Gerada em 15/11/2026 17:18 · cada stream testado (playlist + segmento de vídeo)
+# TV paga aqui = apenas feeds FAST oficiais/licenciados (Pluto, Samsung, Wurl, Amagi, Roku, emissor).
+# Links em IP cru e re-streamers não identificados foram excluídos.
+
+# === Canais Abertos e Brasileiros ===
+#EXTINF:-1 group-title="Canais Abertos e Brasileiros" tvg-logo="https://i.ibb.co/ZRDvqJcf/Logo-Mais-Um-original-sem-fundo.png",+MaisUm
+https://stream.ichibansys.com:3230/hybrid/play.m3u8
+
+#EXTINF:-1 group-title="Canais Abertos e Brasileiros" tvg-logo="https://i.imgur.com/dWA9y2J.png",1001 Noites
+https://cpbr.appflux.com.br:2000/hls/1001noites/1001noites.m3u8
+
+#EXTINF:-1 group-title="Canais Abertos e Brasileiros" tvg-logo="https://i.imgur.com/KgetM8j.png",Adesso TV
+https://cdn.jmvstream.com/w/LVW-9715/LVW9715_12B26T62tm/playlist.m3u8
+
+#EXTINF:-1 group-title="Canais Abertos e Brasileiros" tvg-logo="https://i.imgur.com/5XyopHf.png",AgroCanal
+http://170.83.49.66:8083/AGROCANALHD/index.m3u8
+
+#EXTINF:-1 group-title="Canais Abertos e Brasileiros" tvg-logo="https://i.imgur.com/7rjCS5i.png",Amazon Sat
+https://amazonsat.brasilstream.com.br/hls/amazonsat/index.m3u8
+
+#EXTINF:-1 group-title="Canais Abertos e Brasileiros" tvg-logo="https://i.imgur.com/jl39ula.png",Araruna TV
+https://video05.logicahost.com.br/ararunatv/ararunatv/playlist.m3u8
+
+#EXTINF:-1 group-title="Canais Abertos e Brasileiros" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/18/Boxkidstv.png",Box Kids TV
+http://170.83.49.66:8083/BOXKIDSHD/index.m3u8
+
+#EXTINF:-1 group-title="Canais Abertos e Brasileiros" tvg-logo="https://i.imgur.com/pVM5MhS.png",Canal do Boi
+http://170.83.16.50/CANAL_DO_BOI/index.m3u8
+
+#EXTINF:-1 group-title="Canais Abertos e Brasileiros" tvg-logo="https://i.imgur.com/LgynEBC.png",Canal Futura
+http://170.83.16.50/FUTURA/index.m3u8
+
+#EXTINF:-1 group-title="Canais Abertos e Brasileiros" tvg-logo="https://i.imgur.com/G0x4xqa.png",Canal Metropolitano de Noticias
+https://stmv5.samcast.com.br/claudio8701/claudio8701/playlist.m3u8
+
+#EXTINF:-1 group-title="Canais Abertos e Brasileiros" tvg-logo="https://i.imgur.com/w9R9IIX.png",Canal Rural
+http://170.83.49.66:8083/CANALRURALHD/index.m3u8
+
+#EXTINF:-1 group-title="Canais Abertos e Brasileiros" tvg-logo="https://i.imgur.com/0cq0BPp.png",Canal Sete
+http://play.canalsete.com.br:1935/canalsete/xpl-c7_source/playlist.m3u8
+
+#EXTINF:-1 group-title="Canais Abertos e Brasileiros" tvg-logo="https://conteudo.imguol.com.br/c/play/logo_canaluol_2024.svg",Canal UOL
+https://video24.mais.uol.com.br/live/6146.m3u8
+
+#EXTINF:-1 group-title="Canais Abertos e Brasileiros" tvg-logo="https://i.imgur.com/w89yw36.png",Catve FM
+https://5b33b873179a2.streamlock.net:1443/radiocamera/livestream/playlist.m3u8
+
+#EXTINF:-1 group-title="Canais Abertos e Brasileiros" tvg-logo="https://i.imgur.com/4m7Iazm.png",Catve Master TV
+https://5b33b873179a2.streamlock.net:1443/mastertv/livestream/playlist.m3u8
+
+#EXTINF:-1 group-title="Canais Abertos e Brasileiros" tvg-logo="https://i.imgur.com/qiVfsfB.png",Catve2
+https://5b33b873179a2.streamlock.net:1443/catve2/catve2/playlist.m3u8
+
+#EXTINF:-1 group-title="Canais Abertos e Brasileiros" tvg-logo="https://i.imgur.com/SnaIMgj.png",Chroma TV
+https://5c483b9d1019c.streamlock.net/8054/8054/playlist.m3u8
+
+#EXTINF:-1 group-title="Canais Abertos e Brasileiros" tvg-logo="https://a.jsrdn.com/hls/23208/cindie-tv/logo_20250225_222520_68.png",CINDIE TV
+https://cc-hqw8u5r1nshjc.akamaized.net/scheduler/scheduleMaster/352.m3u8
+
+#EXTINF:-1 group-title="Canais Abertos e Brasileiros" tvg-logo="https://i.imgur.com/rHxcraT.png",Classique TV
+https://stmv1.srvif.com/classique/classique/playlist.m3u8
+
+#EXTINF:-1 group-title="Canais Abertos e Brasileiros" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5f/CNN_Brasil.svg/960px-CNN_Brasil.svg.png",CNN Brasil
+https://d25usgadhphvwi.cloudfront.net/hls/main.m3u8
+
+#EXTINF:-1 group-title="Canais Abertos e Brasileiros" tvg-logo="https://i.imgur.com/GrjGwKM.png",COM Brasil
+https://dfr80qz435crc.cloudfront.net/EFGH/Amagi/NewCo/New_Brasil_BR/New_Brasil.m3u8
+
+#EXTINF:-1 group-title="Canais Abertos e Brasileiros" tvg-logo="https://i.imgur.com/qHwTWlz.png",Conecta Mais TV
+https://adylnet.streampool.net/10324/live/hls/Conecta/index.m3u8
+
+#EXTINF:-1 group-title="Canais Abertos e Brasileiros" tvg-logo="https://i.imgur.com/XN6jjMR.png",ConecTV Brasil
+https://stream01.msolutionbrasil.com.br/hls/conectv/live.m3u8
+
+#EXTINF:-1 group-title="Canais Abertos e Brasileiros" tvg-logo="https://i.imgur.com/CJ9SPsZ.png",Conexao TV
+https://5a57bda70564a.streamlock.net/conexaotv/conexaotv.sdp/playlist.m3u8
+
+#EXTINF:-1 group-title="Canais Abertos e Brasileiros" tvg-logo="https://eitv6.cdn.broadpeak.io/account351-i1438/channel/53/quadrada_-3-_pequeno-1723832301.png",Cultura Fast
+https://fpa-gateway.tvcultura.com.br:8181/memfs/606caef0-a290-413d-9f1f-8fcdb3a73831.m3u8
+
+#EXTINF:-1 group-title="Canais Abertos e Brasileiros" tvg-logo="https://res.cloudinary.com/dpkehkbpv/image/upload/v1721839192/logo/mixtv/despertar_tv_ieb2l3.png",Despertar TV
+https://br.conectmy.com.br/DespertarTV/index.m3u8
+
+#EXTINF:-1 group-title="Canais Abertos e Brasileiros" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c0/DumDum_logo.svg",DumDum
+http://186.219.52.187/zoomoo/index.m3u8
+
+#EXTINF:-1 group-title="Canais Abertos e Brasileiros" tvg-logo="https://i.imgur.com/NF6PL8O.png",Fala Litoral
+https://5c483b9d1019c.streamlock.net/falalitoraltv/falalitoraltv/playlist.m3u8
+
+#EXTINF:-1 group-title="Canais Abertos e Brasileiros" tvg-logo="https://i.imgur.com/7q2BmNc.png",Fonte TV
+https://59fb88a1b1108.streamlock.net/fonte/_definst_/fontetv/chunklist_w1224511652.m3u8
+
+#EXTINF:-1 group-title="Canais Abertos e Brasileiros" tvg-logo="https://i.ibb.co/Pz6Nqk7w/logo-futura-vazado.png",Futura
+http://170.83.49.66:8083/FUTURAHD/index.m3u8
+
+#EXTINF:-1 group-title="Canais Abertos e Brasileiros" tvg-logo="https://i.imgur.com/yxjPno5.png",Gospel Cartoon
+https://stmv1.srvif.com/gospelcartoon/gospelcartoon/playlist.m3u8
+
+#EXTINF:-1 group-title="Canais Abertos e Brasileiros" tvg-logo="https://i.imgur.com/cQN3nWt.png",Gospel Movie TV
+https://stmv1.srvif.com/gospelf/gospelf/playlist.m3u8
+
+#EXTINF:-1 group-title="Canais Abertos e Brasileiros" tvg-logo="https://i.imgur.com/RUKVrOH.png",ISTV
+https://stmv1.srvstm.com/sistema7933/sistema7933/playlist.m3u8
+
+#EXTINF:-1 group-title="Canais Abertos e Brasileiros" tvg-logo="https://i.imgur.com/lezIQyL.png",J3NEWS TV
+https://video01.brascast.com/d92ebb4f/d92ebb4f/playlist.m3u8
+
+#EXTINF:-1 group-title="Canais Abertos e Brasileiros" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/26/Jovem_Pan_logo_2018.svg/960px-Jovem_Pan_logo_2018.svg.png",Jovem Pan News
+http://170.83.49.66:8083/JOVEMPANNEWSHD/index.m3u8
+
+#EXTINF:-1 group-title="Canais Abertos e Brasileiros" tvg-logo="https://i.imgur.com/chHsCzB.png",L!ke
+https://cnl-cl.otteravision.com/cnl/cl_h265/cl_h265.m3u8
+
+#EXTINF:-1 group-title="Canais Abertos e Brasileiros" tvg-logo="https://www.lamorerockshowwebtv.com.br/wp-content/uploads/2024/11/logo_rockshow.avif",Lamore Rock Show WebTV
+https://a.cdni.live/rodrigo2364/rodrigo2364/playlist.m3u8
+
+#EXTINF:-1 group-title="Canais Abertos e Brasileiros" tvg-logo="https://i.imgur.com/R0aflu1.png",Loading
+https://stmv1.srvif.com/loadingtv/loadingtv/playlist.m3u8
+
+#EXTINF:-1 group-title="Canais Abertos e Brasileiros" tvg-logo="https://i.imgur.com/CDPCF2X.png",Music Box Brazil
+http://170.83.49.66:8083/MUSICBOXBRASILHD/index.m3u8
+
+#EXTINF:-1 group-title="Canais Abertos e Brasileiros" tvg-logo="https://i.imgur.com/aiGQtzI.png",MyTime Movie Network
+https://appletree-mytime-samsungbrazil.amagi.tv/playlist.m3u8
+
+#EXTINF:-1 group-title="Canais Abertos e Brasileiros" tvg-logo="https://i.imgur.com/IK3F9Uq.png",Nova Era TV
+http://wz3.dnip.com.br:1935/novaeratv/novaeratv.sdp/live.m3u8
+
+#EXTINF:-1 group-title="Canais Abertos e Brasileiros",Novo Tempo
+http://186.219.52.187/novo_tempo/index.m3u8
+
+#EXTINF:-1 group-title="Canais Abertos e Brasileiros" tvg-logo="https://i.imgur.com/n79nkVC.png",NTV
+https://cdn.livespanel.com/nossatv/nossatv/playlist.m3u8
+
+#EXTINF:-1 group-title="Canais Abertos e Brasileiros" tvg-logo="https://i.imgur.com/1LUbAVP.png",O Dia TV
+https://6836041ea1117.streamlock.net/tvodia/tvodia/playlist.m3u8
+
+#EXTINF:-1 group-title="Canais Abertos e Brasileiros" tvg-logo="https://petloverstv.com.br/storage/357/config/yqP4nOugWRxRFCmgLqXF4gRKyM9ybsAOfHgUaqPt.png",Petlovers TV
+https://video04.logicahost.com.br/petloverstv/petloverstv/playlist.m3u8
+
+#EXTINF:-1 group-title="Canais Abertos e Brasileiros" tvg-logo="https://i.imgur.com/lH4RT7b.png",Plena TV
+https://cdn.jmvstream.com/w/LVW-9591/LVW9591_PmXtgATnaS/playlist.m3u8
+
+#EXTINF:-1 group-title="Canais Abertos e Brasileiros",Plenitude TV
+https://strv.painelvox.top/plenitude/plenitude/playlist.m3u8
+
+#EXTINF:-1 group-title="Canais Abertos e Brasileiros" tvg-logo="https://i.imgur.com/PMptSP3.png",Primer TV
+http://200.194.238.229:8383/live/primer/playlist.m3u8
+
+#EXTINF:-1 group-title="Canais Abertos e Brasileiros" tvg-logo="https://i.imgur.com/TXJKwzZ.png",Rede Brasil
+https://redebrasil.nuvemplay.live/hls/stream.m3u8
+
+#EXTINF:-1 group-title="Canais Abertos e Brasileiros" tvg-logo="https://i.imgur.com/7KVFCrQ.png",Rede Familia
+http://186.219.52.187/rede_familia/index.m3u8
+
+#EXTINF:-1 group-title="Canais Abertos e Brasileiros" tvg-logo="https://i.imgur.com/KVdTi0M.png",Rede Meio Norte
+https://maystreaming.cloudecast.com/redemeio/index.m3u8
+
+#EXTINF:-1 group-title="Canais Abertos e Brasileiros" tvg-logo="https://i.imgur.com/MtQWAHv.png",Rede Minas
+https://8hzcavccys.zoeweb.tv/redeminas/ngrp:redeminas_all/playlist.m3u8
+
+#EXTINF:-1 group-title="Canais Abertos e Brasileiros" tvg-logo="https://i.imgur.com/ZFN1R4B.png",Rede NGT
+https://isaocorp.cloudecast.com/ngt/index.m3u8
+
+#EXTINF:-1 group-title="Canais Abertos e Brasileiros",Rede Seculo 21
+http://186.219.52.187/seculo21/index.m3u8
+
+#EXTINF:-1 group-title="Canais Abertos e Brasileiros" tvg-logo="https://i.imgur.com/ZJgD38F.png",Rede TV! SD
+http://170.83.16.50/REDE_TV/index.m3u8
+
+#EXTINF:-1 group-title="Canais Abertos e Brasileiros" tvg-logo="https://i.imgur.com/D8R0Af4.png",RedeTV! Parana
+https://tv01.zas.media:1936/redetvparana/redetvparana/playlist.m3u8
+
+#EXTINF:-1 group-title="Canais Abertos e Brasileiros" tvg-logo="https://i.imgur.com/Unjs1wi.png",RIT TV
+https://acesso.ecast.site:3648/live/ritlive.m3u8
+
+#EXTINF:-1 group-title="Canais Abertos e Brasileiros" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/42/SBT_News_2025.svg",SBT News
+https://dai.google.com/linear/hls/event/1XSOdtQ0SH2G8OEmEfGgjQ/master.m3u8
+
+#EXTINF:-1 group-title="Canais Abertos e Brasileiros" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/d/d0/Logotipo_do_SBT_Nova_Mutum.png",SBT Nova Mutum
+https://video09.logicahost.com.br/sbtmutum/sbtmutum/playlist.m3u8
+
+#EXTINF:-1 group-title="Canais Abertos e Brasileiros" tvg-logo="https://i.imgur.com/mHxQyB2.png",SIC TV
+https://parecisfmlive.brasilstream.com.br/hls/parecisfmlive/index.m3u8
+
+#EXTINF:-1 group-title="Canais Abertos e Brasileiros" tvg-logo="https://i.ibb.co/8cKmCNm/ezgif-com-gif-maker.png",SOU TV
+https://video10.logicahost.com.br/soutv/soutv/playlist.m3u8
+
+#EXTINF:-1 group-title="Canais Abertos e Brasileiros" tvg-logo="https://i.imgur.com/SeF2I7q.png",STZ TV
+https://cdn.live.br1.jmvstream.com/webtv/AVJ-12952/playlist/playlist.m3u8
+
+#EXTINF:-1 group-title="Canais Abertos e Brasileiros" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bc/Times_Brasil_CNBC_logo_2025.svg/960px-Times_Brasil_CNBC_logo_2025.svg.png",Times Brasil
+https://ssai2-ads.api.leiniao.com/global-adinsertion-api/hls/live/v2/21fdb6dd7491406bba86497a24390a25/playlist.m3u8
+
+#EXTINF:-1 group-title="Canais Abertos e Brasileiros" tvg-logo="https://i.imgur.com/3tBJERH.png",Travel Box Brazil
+http://170.83.49.66:8083/TRAVELBOXHD/index.m3u8
+
+#EXTINF:-1 group-title="Canais Abertos e Brasileiros" tvg-logo="https://i.imgur.com/rsfnv4Z.png",TV Aldeia
+https://stmv1.samcast.com.br/giovane7843/giovane7843/playlist.m3u8
+
+#EXTINF:-1 group-title="Canais Abertos e Brasileiros" tvg-logo="https://i.imgur.com/wM9xXhc.png",TV Alternativa
+https://stmv5.samcast.com.br/wagner7919/wagner7919/playlist.m3u8
+
+#EXTINF:-1 group-title="Canais Abertos e Brasileiros" tvg-logo="https://i.imgur.com/noqGfuy.png",TV Brasil Oeste
+https://5ad482a77183d.streamlock.net/operacaotbomt.com/operacaotbomt.com/playlist.m3u8
+
+#EXTINF:-1 group-title="Canais Abertos e Brasileiros" tvg-logo="https://i.imgur.com/vLpm8tN.png",TV BRICS Portuguese
+https://porbrics.mediacdn.ru/cdn/brics/portuguese/playlist.m3u8
+
+#EXTINF:-1 group-title="Canais Abertos e Brasileiros" tvg-logo="https://i.imgur.com/Sdou1Ab.png",TV Camara
+https://stream3.camara.gov.br/tv1/manifest.m3u8
+
+#EXTINF:-1 group-title="Canais Abertos e Brasileiros" tvg-logo="https://i.imgur.com/OaM9hkH.png",TV Cancao Nova
+http://170.83.16.50/CANCAO_NOVA/index.m3u8
+
+#EXTINF:-1 group-title="Canais Abertos e Brasileiros" tvg-logo="https://i.imgur.com/CpXjcyE.png",TV Clube
+https://5c483b9d1019c.streamlock.net/8186/8186/playlist.m3u8
+
+#EXTINF:-1 group-title="Canais Abertos e Brasileiros" tvg-logo="https://i.imgur.com/JdCKNZ4.png",TV Curuca
+https://stmv1.srvif.com/tvcurucasp/tvcurucasp/playlist.m3u8
+
+#EXTINF:-1 group-title="Canais Abertos e Brasileiros" tvg-logo="https://storage.googleapis.com/soultv-prod-media/media/brand/LOGO_TV_DIFUS%C3%83O_100x100px_doiivZN.png",TV Difusao
+https://tvdsoultv.acessaradios.com.br/tvdsoultv/tvdsoultv.stream/playlist.m3u8
+
+#EXTINF:-1 group-title="Canais Abertos e Brasileiros" tvg-logo="https://i.imgur.com/IrYR7Kp.png",TV Evangelizar
+http://170.83.16.50/TV_EVANGELIZAR/index.m3u8
+
+#EXTINF:-1 group-title="Canais Abertos e Brasileiros" tvg-logo="https://i.imgur.com/NtcoW6G.png",TV Fronteira
+https://tvfronteira.brasilstream.com.br/hls/tvfronteira/index.m3u8
+
+#EXTINF:-1 group-title="Canais Abertos e Brasileiros" tvg-logo="https://i.imgur.com/0sksWse.png",TV Gazeta
+http://186.219.52.187/gazeta/index.m3u8
+
+#EXTINF:-1 group-title="Canais Abertos e Brasileiros" tvg-logo="https://i.imgur.com/MTuErdw.png",TV GRANDE NATAL HDTV BRASIL
+http://tvgrandenatalhd.duckdns.org:8080/hls/live.m3u8
+
+#EXTINF:-1 group-title="Canais Abertos e Brasileiros" tvg-logo="https://i.imgur.com/8PErNBT.png",TV Guara
+https://video02.logicahost.com.br/tvguara23/tvguara23/playlist.m3u8
+
+#EXTINF:-1 group-title="Canais Abertos e Brasileiros" tvg-logo="https://i.imgur.com/rOQKiMO.png",TV Justica
+http://170.83.16.50/TV_JUSTICA/index.m3u8
+
+#EXTINF:-1 group-title="Canais Abertos e Brasileiros" tvg-logo="https://i.imgur.com/HZI0ilU.png",TV Life America
+https://streaming.cloudecast.com/hls/tvlifeamerica/index.m3u8
+
+#EXTINF:-1 group-title="Canais Abertos e Brasileiros" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3e/TV_LITORAL_RN.jpg",TV Litoral RN
+https://5ad482a77183d.streamlock.net/tvnordesteegmail.com/tvnordesteegmail.com/playlist.m3u8
+
+#EXTINF:-1 group-title="Canais Abertos e Brasileiros" tvg-logo="https://i.imgur.com/lgCRX7q.png",TV Mais Marica
+https://5cf4a2c2512a2.streamlock.net/tvmaismarica/tvmaismarica/playlist.m3u8
+
+#EXTINF:-1 group-title="Canais Abertos e Brasileiros" tvg-logo="https://i.imgur.com/AFb712e.png",TV Mana Brasil
+https://w1.manasat.com/tvmana-brasil/smil:tvmana-brasil.smil/playlist.m3u8
+
+#EXTINF:-1 group-title="Canais Abertos e Brasileiros" tvg-logo="https://i.imgur.com/9d9vBN7.png",TV Marajoara
+https://tv02.zas.media:1936/tvmarajoara/tvmarajoara/playlist.m3u8
+
+#EXTINF:-1 group-title="Canais Abertos e Brasileiros" tvg-logo="https://i.imgur.com/bJyjLpg.png",TV Metropole
+https://cdn-fundacao-2110.ciclano.io:1443/fundacao-2110/fundacao-2110/playlist.m3u8
+
+#EXTINF:-1 group-title="Canais Abertos e Brasileiros" tvg-logo="https://i.imgur.com/wqQmQml.png",TV Natal
+http://185.228.163.146:8000/play/a01y/index.m3u8
+
+#EXTINF:-1 group-title="Canais Abertos e Brasileiros" tvg-logo="https://i.imgur.com/iuoXchN.png",TV Pai Eterno
+http://186.219.52.187/pai_eterno/index.m3u8
+
+#EXTINF:-1 group-title="Canais Abertos e Brasileiros" tvg-logo="https://i.imgur.com/0FOmktl.png",TV Pantanal MS
+https://5a2b083e9f360.streamlock.net/tvpantanal/tvpantanal.sdp/playlist.m3u8
+
+#EXTINF:-1 group-title="Canais Abertos e Brasileiros" tvg-logo="https://i.imgur.com/I6pKoBd.png",TV Parana Turismo
+http://200.189.113.201/hls/tve.m3u8
+
+#EXTINF:-1 group-title="Canais Abertos e Brasileiros" tvg-logo="https://i.imgur.com/QFE6TiV.png",TV Passo Fundo
+https://5a57bda70564a.streamlock.net/tvpasso/tvpasso.sdp/playlist.m3u8
+
+#EXTINF:-1 group-title="Canais Abertos e Brasileiros" tvg-logo="https://web2.petropolis.rj.gov.br/imc/film-commission/uploads/profissional/perfil/785b645d9c574b4d88504a85dbd6ef37.png",TV Petropolis
+https://video02.logicahost.com.br/tvpetropolis/tvpetropolis/playlist.m3u8
+
+#EXTINF:-1 group-title="Canais Abertos e Brasileiros" tvg-logo="https://i.imgur.com/f34CQIG.png",TV Sao Raimundo
+https://stmv1.voxtvhd.com.br/9030/9030/playlist.m3u8
+
+#EXTINF:-1 group-title="Canais Abertos e Brasileiros" tvg-logo="https://i.imgur.com/duy6waL.png",TV Senado
+http://170.83.16.50/TV_SENADO/index.m3u8
+
+#EXTINF:-1 group-title="Canais Abertos e Brasileiros" tvg-logo="https://i.imgur.com/Ff5mj0o.png",TV Series
+https://stmv1.srvif.com/tvserie/tvserie/playlist.m3u8
+
+#EXTINF:-1 group-title="Canais Abertos e Brasileiros" tvg-logo="https://i.imgur.com/t5oUK3C.png",TV Sim Sao Mateus
+https://5cf4a2c2512a2.streamlock.net/8236/8236/playlist.m3u8
+
+#EXTINF:-1 group-title="Canais Abertos e Brasileiros" tvg-logo="https://i.imgur.com/PExKWNv.png",TV Terceiro Anjo
+https://streamer1.streamhost.org/salive/GMI3anjoh/playlist.m3u8
+
+#EXTINF:-1 group-title="Canais Abertos e Brasileiros" tvg-logo="https://raw.githubusercontent.com/daniloroxette/tvufop/refs/heads/main/images/tvufop_logo.png",TV UFOP
+https://app.tvufop.com.br/hls/tvufop.m3u8
+
+#EXTINF:-1 group-title="Canais Abertos e Brasileiros" tvg-logo="https://i.imgur.com/TIsk5zN.png",TV Universal
+https://644398c.ha.azioncdn.net/primary/tvuniversal_480p.sdp/playlist.m3u8
+
+#EXTINF:-1 group-title="Canais Abertos e Brasileiros" tvg-logo="https://www.tvmaispet.com.br/images/tvpet-logo.png",TV+Pet
+https://stmv5.samcast.com.br/tvmaispet6354/tvmaispet6354/playlist.m3u8
+
+#EXTINF:-1 group-title="Canais Abertos e Brasileiros" tvg-logo="https://i.imgur.com/IE7IZzi.png",TVCOM Maceio
+https://srv5.zcast.com.br/tvcommaceio/tvcommaceio/playlist.m3u8
+
+#EXTINF:-1 group-title="Canais Abertos e Brasileiros" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0d/TVE_Bahia_logo.svg/960px-TVE_Bahia_logo.svg.png",TVE Bahia
+http://streaming.procergs.com.br:1935/tve/stve/playlist.m3u8
+
+#EXTINF:-1 group-title="Canais Abertos e Brasileiros" tvg-logo="https://i.imgur.com/MQ6lJpS.png",TVE RS
+https://streaming.procergs.com.br:8443/tve/stve/playlist.m3u8
+
+#EXTINF:-1 group-title="Canais Abertos e Brasileiros" tvg-logo="https://i.imgur.com/XeqcwKe.png",TVitape
+https://stream01.msolutionbrasil.com.br/hls/tvitape/live.m3u8
+
+#EXTINF:-1 group-title="Canais Abertos e Brasileiros" tvg-logo="https://i.imgur.com/m0RVb79.png",UMA TV
+https://umatv.nuvemplay.live/hls/stream.m3u8
+
+#EXTINF:-1 group-title="Canais Abertos e Brasileiros" tvg-logo="https://i.imgur.com/N0TvAFz.png",Unisul TV
+https://sitetv.brasilstream.com.br/hls/sitetv/index.m3u8?token=
+
+#EXTINF:-1 group-title="Canais Abertos e Brasileiros" tvg-logo="https://i.imgur.com/n0pxHo4.png",VEJA+ TV
+https://gpa-vja.otteravision.com/gpa/vja/vja.m3u8
+
+#EXTINF:-1 group-title="Canais Abertos e Brasileiros" tvg-logo="https://i.imgur.com/me622pa.png",WooHoo
+http://170.83.16.50/WOOHOO/index.m3u8
+
+# === TV por Assinatura (feeds FAST oficiais) ===
+#EXTINF:-1 group-title="TV por Assinatura (feeds FAST oficiais)" tvg-logo="https://i.imgur.com/6vYWCD0.png",Cartoonito HD
+https://boing.akamaized.net/6380673432112/eu-central-1/6284318116001/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJob3N0Ijoib3dwbnN1LmVncmVzcy5haGc3NmwiLCJhY2NvdW50X2lkIjoiNjI4NDMxODExNjAwMSIsImVobiI6ImJvaW5nLmFrYW1haXplZC5uZXQiLCJpc3MiOiJibGl2ZS1wbGF5YmFjay1zb3VyY2UtYXBpIiwic3ViIjoicGF0aG1hcHRva2VuIiwiYXVkIjpbIjYyODQzMTgxMTYwMDEiXSwianRpIjoiNjM4MDY3MzQzMjExMiJ9.WACYETOZxZYmZHRpxwRrATxVZQBdSoeaWdfhtLKx1kI/playlist-hls.m3u8
+
+#EXTINF:-1 group-title="TV por Assinatura (feeds FAST oficiais)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b6/Logo_de_CNN_en_Espa%C3%B1ol_%282010-2015%29.svg/960px-Logo_de_CNN_en_Espa%C3%B1ol_%282010-2015%29.svg.png",CNN en Espanol
+https://amg00803-cnnfast-amg00803c3-lg-es-5477.playouts.now.amagi.tv/playlist.m3u8
+
+#EXTINF:-1 group-title="TV por Assinatura (feeds FAST oficiais)" tvg-logo="https://images.fubo.tv/channel-config-ui/station-logos/on-dark/espn_8_the_ocho_bw.png",ESPN8: The Ocho
+https://d3b6q2ou5kp8ke.cloudfront.net/ESPNTheOcho.m3u8
+
+#EXTINF:-1 group-title="TV por Assinatura (feeds FAST oficiais)" tvg-logo="https://radio.foxnews.com/wp-content/uploads/2017/10/default_logo-150x150.png",Fox News Radio
+https://radiovid.foxnews.com/hls/live/661547/RADIOVID/index.m3u8
+
+#EXTINF:-1 group-title="TV por Assinatura (feeds FAST oficiais)" tvg-logo="https://i.imgur.com/1JnyzHv.png",LiveNOW from FOX
+https://aka-live1050.delivery.roku.com/eaf7d889-16e0-4c14-a299-a2932df9f467/t2-origin/out/v1/live.m3u8
+
+#EXTINF:-1 group-title="TV por Assinatura (feeds FAST oficiais)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9b/Sony_Movies_Logo.svg/500px-Sony_Movies_Logo.svg.png",Sony Movies (United States)
+https://a-cdn.klowdtv.com/live1/smc_720p/playlist.m3u8
+
+#EXTINF:-1 group-title="TV por Assinatura (feeds FAST oficiais)" tvg-logo="https://i.imgur.com/RO4AM4b.png",Sony One Favoris
+https://49d735318d6b4c30a24a7997ea594e1b.mediatailor.us-west-2.amazonaws.com/v1/master/ba62fe743df0fe93366eba3a257d792884136c7f/LINEAR-820-FR-SONYONEFAVORIS-LG_FR/playlist.m3u8
+
+#EXTINF:-1 group-title="TV por Assinatura (feeds FAST oficiais)" tvg-logo="https://i.imgur.com/pXsZEsR.png",Sony One Hits Action
+https://5098a8b860504a3690fd2e7c0a18d68f.mediatailor.us-west-2.amazonaws.com/v1/master/ba62fe743df0fe93366eba3a257d792884136c7f/LINEAR-817-FR-SONYONEHITSACTION-LG_FR/playlist.m3u8
+
+#EXTINF:-1 group-title="TV por Assinatura (feeds FAST oficiais)" tvg-logo="https://i.imgur.com/8sHuxxS.png",Sony One Hits Comedie
+https://7aa9671895264ec9a384dfed1b992171.mediatailor.us-west-2.amazonaws.com/v1/master/ba62fe743df0fe93366eba3a257d792884136c7f/LINEAR-818-FR-SONYONEHITSCOMDIE-LG_FR/playlist.m3u8
+
+# === Internacionais ===
+#EXTINF:-1 group-title="Internacionais" tvg-logo="https://i.imgur.com/nJmi6G6.png",Al Jazeera Mubasher Broadcast 2
+https://live-hls-apps-ajm2-fa.getaj.net/AJM2/index.m3u8
+
+#EXTINF:-1 group-title="Internacionais" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/8/82/Antena_3_CNN_2022_v1.png/revision/latest/scale-to-width-down/512",Antena 3 CNN HD
+https://live77cdn2.antenaplay.ro/live2_aws4_sdi02/live2_aws4_sdi02_5000k.m3u8
+
+#EXTINF:-1 group-title="Internacionais" tvg-logo="https://i.imgur.com/Kkcp9Bk.png",Brat TV
+https://streams2.sofast.tv/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/04072b68-dc6a-4d5e-98af-f356ba8d5063/playlist.m3u8
+
+#EXTINF:-1 group-title="Internacionais" tvg-logo="https://i.imgur.com/zG1WNgU.jpg",Brian TV
+https://livefta.malimarcdn.com/ftaedge00/briantv.sdp/playlist.m3u8
+
+#EXTINF:-1 group-title="Internacionais" tvg-logo="https://d229kpbsb5jevy.cloudfront.net/yuppfast/content/common/channel/logos/brk-news.png",BRK News
+https://mumbai-edge.smartplaytv.in/BRKNEWS/index.m3u8
+
+#EXTINF:-1 group-title="Internacionais" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/CNN.png",CNN HD
+http://212.5.144.156:8080/cnn/index.m3u8
+
+#EXTINF:-1 group-title="Internacionais" tvg-logo="https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b8/CNN-International-Logo.svg/960px-CNN-International-Logo.svg.png",CNN International
+https://d3bp6dwmpbdajl.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-ury0meh5m4nzm/index.m3u8
+
+#EXTINF:-1 group-title="Internacionais" tvg-logo="https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b8/CNN-International-Logo.svg/960px-CNN-International-Logo.svg.png",CNN International North America
+https://d2sybdl23b9psq.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-bocx3i7bjz0dg/CNNFAST_GB.m3u8
+
+#EXTINF:-1 group-title="Internacionais" tvg-logo="https://dtil.tmsimg.com/assets/s142747_ld_h15_aa.png?lock=720x540",CNN News 18
+https://n18syndication.akamaized.net/bpk-tv/CNN_News18_NW18_MOB/output01/master.m3u8
+
+#EXTINF:-1 group-title="Internacionais" tvg-logo="https://provider-static.plex.tv/epg/cms/production/f351d697-1e1f-4e7d-86c7-5995698e593f/CNN_Originals_ChannelLogo_Dark_1500x1000_2025_-_Grace_Hartwig.png",CNN Originals
+https://amg01918-cnnus-amg01918c2-vizio-us-9192.playouts.now.amagi.tv/playlist/amg01918-cnnus-cnnoriginals-vizious/playlist.m3u8
+
+#EXTINF:-1 group-title="Internacionais" tvg-logo="https://i.imgur.com/bc6tYVZ.png",CNN Portugal
+https://github.com/thomraider12/canaistvpt/raw/main/m3u8s/cnnpt.m3u8
+
+#EXTINF:-1 group-title="Internacionais" tvg-logo="https://i.imgur.com/elZyUjX.png",CNN Prima News
+http://88.212.15.50/live/test_cnn_pirma_news/playlist.m3u8
+
+#EXTINF:-1 group-title="Internacionais" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/59/CNN_T%C3%BCrk_logo.svg/960px-CNN_T%C3%BCrk_logo.svg.png",CNN Turk
+http://85.117.61.84/cnnturk/index.m3u8
+
+#EXTINF:-1 group-title="Internacionais" tvg-logo="https://i.imgur.com/JDM9rEV.png",Hasbro Legends
+https://amg02713-amg02713c11-amgplt0852.playout.now3.amagi.tv/ts-us-e2-n2/playlist/amg02713-amg02713c11-amgplt0852/playlist.m3u8
+
+#EXTINF:-1 group-title="Internacionais" tvg-logo="https://www.i24news.tv/images/favicon.png",i24NEWS Hebrew
+https://i24newshebrew-cdn.encoders.immergo.tv/master.m3u8
+
+#EXTINF:-1 group-title="Internacionais" tvg-logo="https://i.imgur.com/PVt8OPN.png",MBC 3 USA
+https://shd-gcp-live.edgenextcdn.net/live/bitmovin-mbc-3-usa/5d58265a862a476dc7f97694addb5ded/index.m3u8
+
+#EXTINF:-1 group-title="Internacionais" tvg-logo="https://i.imgur.com/MfyRQCs.png",News of the World USA
+https://live.nowtelly.com/now_usa/live_usa/playlist.m3u8
+
+#EXTINF:-1 group-title="Internacionais" tvg-logo="https://images.pluto.tv/channels/5e7cb84a172a0f0007da69e4/colorLogoPNG.png",Red Bull TV BR
+https://d03ae6b5c6724c24867e97a3dc04934a.mediatailor.us-west-2.amazonaws.com/v1/master/ba62fe743df0fe93366eba3a257d792884136c7f/LINEAR-1026-WORBBRPTFAST-WHALETVPLUS/1026/hls/master/playlist.m3u8
+
+#EXTINF:-1 group-title="Internacionais" tvg-logo="https://i.imgur.com/DFBocPu.png",Trace Brazuca HD
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01131-tracetv-tracebrazuca-samsungbr/playlist.m3u8
+
+#EXTINF:-1 group-title="Internacionais" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/TyC_Sports_logo.svg/960px-TyC_Sports_logo.svg.png",TyC Sports USA
+http://45.170.130.224:8000/play/a020/index.m3u8
+
+#EXTINF:-1 group-title="Internacionais" tvg-logo="https://i.imgur.com/37K0AZX.png",USA TODAY
+https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg00731-gannettcoinc-usatodaynews-plex/playlist.m3u8
